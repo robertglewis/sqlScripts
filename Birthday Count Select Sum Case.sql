@@ -1,4 +1,6 @@
 --Create Simple Table That Store Birthday Information 
+-- This is a change
+
 create table birthdays
 (
   memID int NOT NULL , 
